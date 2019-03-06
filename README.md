@@ -6,5 +6,5 @@ CPSC 350 Assignment #2
 
 Sources
 
-Generate a random number 1-100 http://www.cplusplus.com/reference/cstdlib/rand/
+Generate a random number 1-100 http://www.cplusplus.com/reference/cstdlib/rand/ 
 Official C++ documentation
